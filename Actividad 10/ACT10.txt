@@ -1,0 +1,21 @@
+José Daniel Ramos Portillo / Codigo: 00207819
+
+Pasar:
+A-B/(C*D$E)
+De infija a postfija
+
+Solución:
+A-B/(C*DE$)
+A-B/(CDE$*)
+A-B(CDE$*)/
+AB-CDE$*/
+
+Pasar:
+((A+B)*C-(D-E))$(F+G) Infija
+De infija a postfija
+
+Solución:
+((AB+)*C-(DE-))$(F+G)
+((AB+)C*-(DE-))$(FG+)
+(AB+C*DE--)$(FG+)
+AB+C*DE--FG+$ Postfija
