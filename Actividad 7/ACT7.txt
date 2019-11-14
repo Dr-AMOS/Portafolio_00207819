@@ -1,0 +1,83 @@
+José Daniel Ramos Portillo // 00207819
+
+"El siguiente codigo sirve para leer el segundo elemento en una pila"
+funcion pop(int x){
+	for(i=0;i<x;i++){
+	s=pop a pila 
+	}
+return s;
+}
+
+main{
+	"x=2"
+
+	if (pila == empty)
+		break;
+	else 
+for(i=x;i<x;i++){
+
+	s[i]=pop a pila 
+	i=d
+	if (pila==empty){
+	if(x>i)
+	bandera=true
+	return true; break;
+	else
+	bandera=false;	break;
+	}
+
+	for(i=d;i>=0;i--){
+	push a pila de s[i] 
+	}
+	
+	if bandera==true
+	f=funcion pop (x)
+	cout<<f;
+
+	else
+	cout<<insuficientes datos
+}
+
+"Este codigo deja la pila intacta"
+
+
+funcion void pop(int x){
+	int s[3];
+	
+	for(i=x;i<x;i++){
+	s[i]=pop a pila 
+	}
+	
+	for(i=x;i>=0;i--){
+	push a pila de s[i] 
+	}
+
+return s;
+}
+
+main{
+	"x=2"
+
+	for(i=x;i<x;i++){
+
+	s[i]=pop a pila 
+	i=d
+	if (pila==empty){
+	if(x>i)
+	bandera=true
+	return true; break;
+	else
+	bandera=false;	break;
+	}
+
+	for(i=d;i>=0;i--){
+	push a pila de s[i] 
+	}
+	
+	if bandera ==true
+	f=funcion pop (x)
+	cout<<f;
+
+	else
+	cout<<insuficientes datos
+}
