@@ -1,0 +1,35 @@
+Árbol #1 - Eliminación de elementos
+
+-Eliminar nodo 95 y agarrar a 100 como raíz.
+-Eliminar nodo 72 y 60 lo sustituye.
+-Eliminar nodo 84.
+-Eliminar nodo 100 y 105 lo sustituye.
+-Eliminar nodo 82 y 81 lo sustituye.
+
+Árbol #2 - Arbol balanceado, inserción.
+
+-Agregar 86 a la derecha del 75
+-Agregar 65 a la izquierda del 75
+-Agregar 70 a la derecha del 65 y hacer una doble rotación izquierda
+-Agregar 67 a la izquierda del 70. 
+-Agregar 73 a la derecha del 70.
+-Agregar 93 a la derecha del 86.
+-Agregar 69 a la derecha del 67 y doble rotación izquierda.
+-Agregar 25 a la izquierda del 43 y rotación derecha simple.
+-Agregar 66 a la izquierda de 67.
+-Agregar 68 a la izquierda de 69.
+-Agregar 47 a la izquierda de 58.
+-Agregar 62 a la derecha de 58.
+-Agregar 10 a la izquierda de 25.
+-Agregar 60 a la izquierda de 62 y rotación derecha simple.
+
+Árbol # 3 -Eliminación de elementos en árbol balanceado
+
+-Eliminar 25 y 10 lo sustituye, rotación izquierda simple.
+-Eliminar 75 y 73 lo sustituye, rotación izquierda simple.
+-Eliminar 66 y rotación izquierda doble.
+-Eliminar 65 y 62 lo sustituye, colocar 60 en dónde estaba 62.
+-Eliminar 62 y 60 lo sustutuye hacer, rotación derecha simple.
+-Eliminar 10 y rotación izquierda doble.
+-Eliminar 43.
+-Eliminar 47 y 58 lo sustituye, rotación izquierda simple.
